@@ -11,7 +11,7 @@
 --- 
 
 ### 🧑‍💻 About Me :
-I am a passionate Full Stack Software Developer and recent graduate of the University of Utah Master of Software Development program. My expertise lies in developing, testing, and debugging code. Throughout my academic journey and professional experiences, I have demonstrated proficiency in JavaScript, React, Python, and more, showcasing my ability to tackle complex problems and deliver high-quality projects.
+I am a passionate Full Stack Software Developer and a graduate of the University of Utah Master of Software Development program. My expertise lies in developing, testing, and debugging code. Throughout my academic journey and professional experiences, I have demonstrated proficiency in JavaScript, React, Python, and more, showcasing my ability to tackle complex problems and deliver high-quality projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-willsan0723-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-santee-97568351/)
 
